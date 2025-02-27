@@ -7,6 +7,10 @@ play hello world to confirm that docker is working
 
 #2
 Modify the storage driver
+![image](https://github.com/user-attachments/assets/82d863d1-747e-4ba1-8e10-bef30be3075e)
+![image](https://github.com/user-attachments/assets/faa11c18-b2fc-4c9d-adb3-669d40772fa5)
+
+
 
 
 #4
@@ -28,6 +32,10 @@ Nginx  named ngnix18,
 
 #7
 ![image](https://github.com/user-attachments/assets/7bce4f0f-c854-4fba-b253-0003bc26575a)
+![image](https://github.com/user-attachments/assets/cc52ce4c-5352-4130-a14b-bd15476ed670)
+
+
+
 
 
 
